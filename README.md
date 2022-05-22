@@ -1,0 +1,2 @@
+# crytoCurrencyQuant
+基于ccxt库获取数字货币交易所行情
